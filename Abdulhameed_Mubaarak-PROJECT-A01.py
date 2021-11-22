@@ -163,7 +163,7 @@ elif lang.capitalize() == 'F':
 cardGet = input(lang['havCard'])
 if cardGet.capitalize() == 'N':
     lost = input(lang['lostCard'])
-    if lost == 'Y' or lost == 'O':
+    if lost.capitalize() == 'Y' or lost == 'O':
         # if card is lost, we want to block the card by popping the card number
         acNumi = input(lang['acNum'])
         for a in custData.values():
