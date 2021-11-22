@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## welcome to griftherin's coding journey
 
 You can use the [editor on GitHub](https://github.com/griftherin/nspcodings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
